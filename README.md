@@ -22,7 +22,7 @@ Below is the description of every API call that needs to be made wwith the API t
 /api/game/{gameid}/numbers -- GET
 -- Parameters required -- GameId
 
-6. Takes gameId as input and returns the ststs of the agme consisting of number of tickets, number drawn so far and the total number of users.
+6. Takes gameId as input and returns the stats of the game consisting of number of tickets, number drawn so far and the total number of users.
 /api/game/{gameID}/stats -- GET
 -- Parameters required -- GameId
 
